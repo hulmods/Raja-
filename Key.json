@@ -47,5 +47,11 @@
     "expiresAt": "2026-06-25",
     "allowOffline": false
   },
+     {
+    "id": "27c2bf0e10c214e1",
+    "key": "12345",
+    "expiresAt": "2026-07-1",
+    "allowOffline": false
+  },
 ]
 

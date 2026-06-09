@@ -1,4 +1,4 @@
-[
+use[
   {
     "id": "97a43813014164ee",
     "key": "800100042",
@@ -582,6 +582,12 @@
     "id": "228deedc5ee66342",
     "key": "1122",
     "expiresAt": "2026-08-25",
+    "allowOffline": false
+  },
+  {
+    "id": "13f0e0fd2be5d63c",
+    "key": "2566",
+    "expiresAt": "2026-07-8",
     "allowOffline": false
   },
   

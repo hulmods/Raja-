@@ -2454,13 +2454,19 @@
    {
     "id": "18b8e27195aacc88",
     "key": "800004527",
-    "expiresAt": "2026-08-06",
+    "expiresAt": "2026-08-07",
     "allowOffline": false
   },
    {
     "id": "021d963101a01406",
     "key": "800051406",
-    "expiresAt": "2026-08-06",
+    "expiresAt": "2026-08-07",
+    "allowOffline": false
+  },
+   {
+    "id": "7ea2a7b4a69f366b",
+    "key": "800052264",
+    "expiresAt": "2026-08-07",
     "allowOffline": false
   },
 

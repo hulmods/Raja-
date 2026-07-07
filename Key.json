@@ -5,58 +5,10 @@
     "expiresAt": "2026-10-01",
     "allowOffline": false
   },
-  {
-    "id": "ce32fb187c2adb76",
-    "key": "12345",
-    "expiresAt": "2026-05-10",
-    "allowOffline": false
-  },
-  {
-    "id": "5e5cdd31f187928f",
-    "key": "12345",
-    "expiresAt": "2026-05-15",
-    "allowOffline": false
-  },
-  {
-    "id": "55976c70de2b6464",
-    "key": "124",
-    "expiresAt": "2026-05-06",
-    "allowOffline": false
-  },
-  {
-    "id": "55976c70de2b6464",
-    "key": "1245",
-    "expiresAt": "2026-05-06",
-    "allowOffline": false
-  },
-  {
-    "id": "db8282427d1e1c86",
-    "key": "1234",
-    "expiresAt": "2026-05-06",
-    "allowOffline": false
-  },
-  {
-    "id": "55976c70de2b6464",
-    "key": "1234",
-    "expiresAt": "2026-06-23",
-    "allowOffline": false
-  },
-   {
-    "id": "a080c8ec2aa9648b",
-    "key": "800036955",
-    "expiresAt": "2026-06-25",
-    "allowOffline": false
-  },
      {
     "id": "7f77c185126570d2",
     "key": "600032757",
     "expiresAt": "2026-08-3",
-    "allowOffline": false
-  },
-    {
-    "id": "1A99D8F15316A86E",
-    "key": "12345",
-    "expiresAt": "2026-06-5",
     "allowOffline": false
   },
   {

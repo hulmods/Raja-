@@ -2842,7 +2842,13 @@
   {
     "id": "9ba26c5fa7f89dc3",
     "key": "CKR95764",
-    "expiresAt": "2026-08-22",
+    "expiresAt": "2026-08-23",
+    "allowOffline": false
+  },
+  {
+    "id": "b12c507edff75a93",
+    "key": "0800126475",
+    "expiresAt": "2026-08-24",
     "allowOffline": false
   },
 

@@ -2086,7 +2086,7 @@
   {
     "id": "8df4559e35a3baad",
     "key": "800004326",
-    "expiresAt": "2026-08-11",
+    "expiresAt": "2026-09-11",
     "allowOffline": false
   },
   {
@@ -2120,9 +2120,9 @@
     "allowOffline": false
   },
   {
-    "id": "abbc860fe9d02e58",
+    "id": "8273a554ade1e83c",
     "key": "800050720",
-    "expiresAt": "2026-08-11",
+    "expiresAt": "2026-09-11",
     "allowOffline": false
   },
   {
@@ -3461,6 +3461,12 @@
     "id": "7581e7599536ec51",
     "key": "ALL20",
     "expiresAt": "2026-09-1",
+    "allowOffline": false
+  },
+  {
+    "id": "55d9f97ee6e01fd3",
+    "key": "800056431",
+    "expiresAt": "2026-09-11",
     "allowOffline": false
   },
   

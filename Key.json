@@ -80,19 +80,19 @@
    {
     "id": "aad68e7bee19413e",
     "key": "800026423",
-    "expiresAt": "2026-11-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
     "id": "bda0ca9575856b9b",
     "key": "800027540",
-    "expiresAt": "2026-11-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
     "id": "a08c2cfc9897b351",
     "key": "800001795",
-    "expiresAt": "2026-11-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
@@ -104,31 +104,31 @@
   {
     "id": "9eded9fe14f00f8c",
     "key": "800124458",
-    "expiresAt": "2026-11-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
     "id": "e5f4441e33bab185",
     "key": "800039175",
-    "expiresAt": "2026-11-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
     "id": "4796f823f80ff202",
     "key": "800001793",
-    "expiresAt": "2026-11-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
     "id": "fc2e874589479563",
     "key": "800023485",
-    "expiresAt": "2026-11-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
     "id": "c432f2f4ed14a569",
     "key": "800030861",
-    "expiresAt": "2026-11-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
@@ -140,7 +140,7 @@
   {
     "id": "0735e747cd7dc120",
     "key": "800002380",
-    "expiresAt": "2026-10-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
@@ -170,13 +170,13 @@
   {
     "id": "c46515eeb4a95d69",
     "key": "1122",
-    "expiresAt": "2026-10-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
     "id": "2c8caa8679564cd3",
     "key": "800001978",
-    "expiresAt": "2026-11-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
   {
@@ -188,7 +188,7 @@
   {
     "id": "856a9d78ad517752",
     "key": "800002369",
-    "expiresAt": "2026-10-7",
+    "expiresAt": "2026-08-15",
     "allowOffline": false
   },
    {
@@ -270,12 +270,6 @@
     "expiresAt": "2026-09-7",
     "allowOffline": false
   },
-  {
-    "id": "432f351d41aef28a",
-    "key": "600001",
-    "expiresAt": "2026-11-9",
-    "allowOffline": false
-  },
    {
     "id": "0fc83524ee2ec7f9",
     "key": "800052574",
@@ -291,7 +285,7 @@
   {
     "id": "32677e19e14d2827",
     "key": "1122",
-    "expiresAt": "2026-08-25",
+    "expiresAt": "2026-08-13",
     "allowOffline": false
   },
   {

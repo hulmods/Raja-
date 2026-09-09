@@ -1168,13 +1168,13 @@
   {
     "id": "1cdc0e1d436c141a",
     "key": "800050800",
-    "expiresAt": "2026-09-10",
+    "expiresAt": "2026-10-10",
     "allowOffline": false
   },
   {
     "id": "324c4407414f4049",
     "key": "800050721",
-    "expiresAt": "2026-09-10",
+    "expiresAt": "2026-10-10",
     "allowOffline": false
   },
   {
@@ -1210,7 +1210,7 @@
   {
     "id": "ca6b5e61c540addf",
     "key": "800050844",
-    "expiresAt": "2026-09-10",
+    "expiresAt": "2026-10-10",
     "allowOffline": false
   },
   {

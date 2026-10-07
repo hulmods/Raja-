@@ -3404,9 +3404,15 @@
     "allowOffline": false
   },
   {
-    "id": "124816031eefe7",
+    "id": "f8a30bd116352bb5",
     "key": "800036955",
     "expiresAt": "2026-10-15",
+    "allowOffline": false
+  },
+  {
+    "id": "3248ef4ca5aeeb6d",
+    "key": "600018952",
+    "expiresAt": "2026-11-07",
     "allowOffline": false
   },
   
